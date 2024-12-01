@@ -1,0 +1,19 @@
+#content .overlay .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+#content .overlay .container .spacer-single{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-bottom: 45px;
+   
+}
+
+#wrapper .overlay .container #logo{
+   background-color: black;
+}
